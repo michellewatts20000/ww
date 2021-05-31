@@ -44,7 +44,7 @@ button:focus {
 }
 
 h1 {
-  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Roboto', sans-serif;
   letter-spacing: 2px;
 }
 
@@ -114,6 +114,11 @@ a:hover {
   max-width: 40rem;
 }
 
+.jumbotron h4, h1{
+  color:black;
+  text-align: center;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -153,7 +158,7 @@ footer p {
 
   h1 {
     font-size: 25px;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
   }
 
